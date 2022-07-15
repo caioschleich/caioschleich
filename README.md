@@ -5,6 +5,7 @@ div.stats{
 display: flex;
 justify-content: space-between
 }
+</style>
 
 <div id="stats">
   <a href="https://github.com/caioschleich">
