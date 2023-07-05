@@ -23,4 +23,4 @@
 - 🤖 Tenho trabalhado com microcontroladoras!
 - 🌱 Estudando React Native e Angular
 - 🙂 Pronomes: ele/dele
-- 🎸 Guitarrista nas raras horas vagas
+- 🎸 Guitarrista e Baixista nas horas vagas
