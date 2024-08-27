@@ -21,6 +21,7 @@
 ##
 
 - 🤖 Tenho trabalhado com microcontroladoras!
-- 🌱 Estudando React Native e Angular
+- 👾 Certified in Cybersecurity (ISC² CC)
+- 🌱 Estudando Java e Linux
 - 🙂 Pronomes: ele/dele
 - 🎸 Guitarrista e Baixista nas horas vagas
